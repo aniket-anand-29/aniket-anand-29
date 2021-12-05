@@ -41,4 +41,3 @@
 
 ------
 
-[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniket-anand-29&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
