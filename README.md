@@ -24,21 +24,21 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/ayushkr7/github-readme-stats">
+<a href="https://github.com/aniket-anand-29/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
 </a>  
 <p>
 
   
 <p align="center">
-<img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr7&" alt="ayushkr7-streak-count" />
+<img  width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=aniket-anand-29&" alt="aniket-anand-29-streak-count" />
 
 <a>
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=ayushkr7&show_icons=true&theme=synthwave" />
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=aniket-anand-29&show_icons=true&theme=synthwave" />
 </a>
   
 </p>
 
 ------
 
-[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ayushkr7&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=aniket-anand-29&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
