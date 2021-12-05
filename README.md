@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="https://github.com/aniket-anand-29/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr7&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-anand-29&layout=compact" />
 </a>  
 <p>
 
